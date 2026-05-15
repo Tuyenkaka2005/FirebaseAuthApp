@@ -1,7 +1,7 @@
-<img width="210"  alt="38623778-c798-4a59-a875-03c6f2dd95fc" src="https://github.com/user-attachments/assets/543ec02c-d3e1-4eef-a826-d639d3b8c1f6" />
-<img width="210"  alt="87de1594-afa9-4364-890e-2a623d9a70ef" src="https://github.com/user-attachments/assets/eade345d-4171-41a8-ab72-fe4182cafbd1" />
-<img width="210"  alt="8ed1f2d6-30fc-4f1f-94c3-44fe1739ab7c" src="https://github.com/user-attachments/assets/094a8263-9ea3-4553-8d4c-850751fefcac" />
-<img width="210"  alt="7839e93f-0402-43e0-ae35-701d4a85d58d" src="https://github.com/user-attachments/assets/0ccf1841-d2be-465a-b1f5-1bb39619a48b" />
+<img width="200"  alt="38623778-c798-4a59-a875-03c6f2dd95fc" src="https://github.com/user-attachments/assets/543ec02c-d3e1-4eef-a826-d639d3b8c1f6" />
+<img width="200"  alt="87de1594-afa9-4364-890e-2a623d9a70ef" src="https://github.com/user-attachments/assets/eade345d-4171-41a8-ab72-fe4182cafbd1" />
+<img width="200"  alt="8ed1f2d6-30fc-4f1f-94c3-44fe1739ab7c" src="https://github.com/user-attachments/assets/094a8263-9ea3-4553-8d4c-850751fefcac" />
+<img width="200"  alt="7839e93f-0402-43e0-ae35-701d4a85d58d" src="https://github.com/user-attachments/assets/0ccf1841-d2be-465a-b1f5-1bb39619a48b" />
 
 # LAB 8: Firebase Authentication (SwiftUI) 🔐
 
